@@ -39,7 +39,7 @@
     "eslint-plugin-prettier": "^3.0.0",
     "jest": "^23.6.0",
     "lodash.keyby": "^4.6.0",
-    "prettier": "^1.15.2",
+    "prettier": "^1.18.0",
     "rimraf": "^2.6.2",
     "write-to-file": "^1.0.1"
   },
